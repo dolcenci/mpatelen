@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669782197134",
+    "project_id": "mpateleeeng",
+    "storage_bucket": "mpateleeeng.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669782197134:android:32b79d7fec0ea2133f1adf",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlH6o8YKZxJxuLyZHj7LLotoJM6Ff0B4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
